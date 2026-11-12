@@ -1,0 +1,6 @@
+{
+  "parent": "kaleidoscope_orchard:chopping_board/blueberry_cake/0",
+  "textures": {
+    "0": "kaleidoscope_orchard:chopping_board/glow_berry_cake"
+  }
+}

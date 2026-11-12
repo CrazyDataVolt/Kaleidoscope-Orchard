@@ -1,0 +1,14 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "minecraft:melon_slice"
+    }
+  ],
+  "results": [
+    {
+      "amount": 125,
+      "id": "kaleidoscope_orchard:watermelon_juice"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:sweet_berries"
+    },
+    {
+      "item": "minecraft:glow_berries"
+    },
+    {
+      "item": "kaleidoscope_orchard:blueberry"
+    },
+    {
+      "item": "kaleidoscope_orchard:orange"
+    },
+    {
+      "item": "kaleidoscope_tavern:grape"
+    },
+    {
+      "item": "kaleidoscope_orchard:kiwi"
+    },
+    {
+      "item": "kaleidoscope_orchard:strawberry"
+    },
+    {
+      "item": "kaleidoscope_orchard:empty_melon"
+    },
+    {
+      "item": "minecraft:apple"
+    }
+  ],
+  "result": {
+    "id": "kaleidoscope_orchard:fruit_melon"
+  }
+}

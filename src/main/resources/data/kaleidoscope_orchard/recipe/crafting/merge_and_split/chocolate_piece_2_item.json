@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "kaleidoscope_orchard:chocolate_piece"
+    },
+    {
+      "item": "kaleidoscope_orchard:chocolate_piece"
+    },
+    {
+      "item": "kaleidoscope_orchard:chocolate_piece"
+    },
+    {
+      "item": "kaleidoscope_orchard:chocolate_piece"
+    },
+    {
+      "item": "kaleidoscope_orchard:chocolate_piece"
+    },
+    {
+      "item": "kaleidoscope_orchard:chocolate_piece"
+    }
+  ],
+  "result": {
+    "id": "kaleidoscope_orchard:chocolate"
+  }
+}

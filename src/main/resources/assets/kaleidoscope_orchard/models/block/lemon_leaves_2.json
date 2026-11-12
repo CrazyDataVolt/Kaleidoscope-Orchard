@@ -1,0 +1,7 @@
+{
+	"parent": "minecraft:block/cube_all",
+	"render_type": "cutout",
+	"textures": {
+		"all": "kaleidoscope_orchard:block/lemon_leaves_2"
+	}
+}

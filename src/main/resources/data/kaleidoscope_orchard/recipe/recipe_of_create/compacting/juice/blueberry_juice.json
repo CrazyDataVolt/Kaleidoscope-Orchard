@@ -1,0 +1,14 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "kaleidoscope_orchard:blueberry"
+    }
+  ],
+  "results": [
+    {
+      "amount": 125,
+      "id": "kaleidoscope_orchard:blueberry_juice"
+    }
+  ]
+}

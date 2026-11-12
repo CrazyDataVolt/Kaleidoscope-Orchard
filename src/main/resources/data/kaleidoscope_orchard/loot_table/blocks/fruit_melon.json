@@ -1,0 +1,39 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:alternatives",
+          "children": [
+            {
+              "type": "minecraft:item",
+              "conditions": [
+                {
+                  "condition": "minecraft:block_state_property",
+                  "block": "kaleidoscope_orchard:fruit_melon",
+                  "properties": {
+                    "bites": "0"
+                  }
+                }
+              ],
+              "name": "kaleidoscope_orchard:fruit_melon"
+            },
+            {
+              "type": "minecraft:item",
+              "name": "kaleidoscope_orchard:empty_melon"
+            }
+          ]
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "kaleidoscope_cookery:blocks/fruit_melon"
+}

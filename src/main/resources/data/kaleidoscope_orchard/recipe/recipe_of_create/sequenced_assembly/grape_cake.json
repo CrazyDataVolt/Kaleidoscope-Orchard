@@ -1,0 +1,98 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "kaleidoscope_orchard:cake_base"
+  },
+  "transitional_item": {
+    "id": "kaleidoscope_orchard:incomplete_grape_cake"
+  },
+  "results": [
+    {
+      "id": "kaleidoscope_orchard:grape_cake"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "kaleidoscope_orchard:incomplete_grape_cake"
+        },
+        {
+          "type": "neoforge:single",
+          "amount": 1000,
+          "fluid": "kaleidoscope_tavern:grape_juice"
+        }
+      ],
+      "results": [
+        {
+          "id": "kaleidoscope_orchard:incomplete_grape_cake"
+        }
+      ]
+    },
+	{
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kaleidoscope_orchard:incomplete_grape_cake"
+        },
+        {
+          "item": "minecraft:sugar"
+        }
+      ],
+      "results": [
+        {
+          "id": "kaleidoscope_orchard:incomplete_grape_cake"
+        }
+      ]
+    },
+	{
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kaleidoscope_orchard:incomplete_grape_cake"
+        },
+        {
+          "item": "kaleidoscope_tavern:grape"
+        }
+      ],
+      "results": [
+        {
+          "id": "kaleidoscope_orchard:incomplete_grape_cake"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kaleidoscope_orchard:incomplete_grape_cake"
+        },
+        {
+          "item": "kaleidoscope_tavern:grape"
+        }
+      ],
+      "results": [
+        {
+          "id": "kaleidoscope_orchard:incomplete_grape_cake"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kaleidoscope_orchard:incomplete_grape_cake"
+        },
+        {
+          "item": "kaleidoscope_tavern:grape"
+        }
+      ],
+      "results": [
+        {
+          "id": "kaleidoscope_orchard:incomplete_grape_cake"
+        }
+      ]
+    }
+  ]
+}

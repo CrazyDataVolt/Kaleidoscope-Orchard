@@ -1,0 +1,15 @@
+{
+  "type": "create:mixing",
+  "heat_requirement": "heated",
+  "ingredients": [
+    {
+      "item": "kaleidoscope_orchard:chocolate"
+    }
+  ],
+  "results": [
+    {
+      "amount": 500,
+      "id": "create:chocolate"
+    }
+  ]
+}

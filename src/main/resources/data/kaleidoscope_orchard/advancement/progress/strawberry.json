@@ -1,0 +1,33 @@
+{
+  "parent": "kaleidoscope_orchard:root",
+  "criteria": {
+    "has_strawberry": {
+      "conditions": {
+        "items": [
+          {
+            "items": "kaleidoscope_orchard:strawberry"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "icon": {
+      "count": 1,
+      "id": "kaleidoscope_orchard:strawberry"
+    },
+    "title": {
+      "translate": "advancements.kaleidoscope_orchard.strawberry.title"
+    },
+    "description": {
+      "translate": "advancements.kaleidoscope_orchard.strawberry.desc"
+    }
+  },
+  "requirements": [
+    [
+      "has_strawberry"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

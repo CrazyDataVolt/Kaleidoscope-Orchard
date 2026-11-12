@@ -1,0 +1,15 @@
+{
+  "type": "create:cutting",
+  "ingredients": [
+    {
+      "item": "kaleidoscope_orchard:orange"
+    }
+  ],
+  "processing_time": 50,
+  "results": [
+    {
+      "count": 2,
+      "id": "kaleidoscope_orchard:orange_slice"
+    }
+  ]
+}

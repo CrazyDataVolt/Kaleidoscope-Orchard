@@ -1,0 +1,33 @@
+{
+  "parent": "kaleidoscope_orchard:root",
+  "criteria": {
+    "has_orange": {
+      "conditions": {
+        "items": [
+          {
+            "items": "kaleidoscope_orchard:orange"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "icon": {
+      "count": 1,
+      "id": "kaleidoscope_orchard:orange"
+    },
+    "title": {
+      "translate": "advancements.kaleidoscope_orchard.orange.title"
+    },
+    "description": {
+      "translate": "advancements.kaleidoscope_orchard.orange.desc"
+    }
+  },
+  "requirements": [
+    [
+      "has_orange"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

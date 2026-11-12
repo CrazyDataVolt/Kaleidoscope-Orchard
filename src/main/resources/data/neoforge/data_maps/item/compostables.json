@@ -1,0 +1,136 @@
+{
+  "values": {
+    "minecraft:rotten_flesh": {
+      "can_villager_compost": true,
+      "chance": 1.0
+    },
+    "kaleidoscope_orchard:strawberry": {
+      "can_villager_compost": true,
+      "chance": 0.3
+    },
+    "kaleidoscope_orchard:blueberry": {
+      "can_villager_compost": true,
+      "chance": 0.3
+    },
+    "kaleidoscope_orchard:orange": {
+      "can_villager_compost": true,
+      "chance": 0.65
+    },
+    "kaleidoscope_orchard:kiwi": {
+      "can_villager_compost": true,
+      "chance": 0.65
+    },
+    "kaleidoscope_orchard:lemon": {
+      "can_villager_compost": true,
+      "chance": 0.65
+    },
+    "kaleidoscope_orchard:orange_slice": {
+      "can_villager_compost": true,
+      "chance": 0.325
+    },
+    "kaleidoscope_orchard:lemon_slice": {
+      "can_villager_compost": true,
+      "chance": 0.325
+    },
+    "kaleidoscope_orchard:kiwi_slice": {
+      "can_villager_compost": true,
+      "chance": 0.325
+    },
+    "kaleidoscope_orchard:strawberry_cake": {
+      "can_villager_compost": true,
+      "chance": 1.0
+    },
+    "kaleidoscope_orchard:orange_cake": {
+      "can_villager_compost": true,
+      "chance": 1.0
+    },
+    "kaleidoscope_orchard:kiwi_cake": {
+      "can_villager_compost": true,
+      "chance": 1.0
+    },
+    "kaleidoscope_orchard:blueberry_cake": {
+      "can_villager_compost": true,
+      "chance": 1.0
+    },
+    "kaleidoscope_orchard:sweet_berry_cake": {
+      "can_villager_compost": true,
+      "chance": 1.0
+    },
+    "kaleidoscope_orchard:glow_berry_cake": {
+      "can_villager_compost": true,
+      "chance": 1.0
+    },
+    "kaleidoscope_orchard:grape_cake": {
+      "can_villager_compost": true,
+      "chance": 1.0
+    },
+    "kaleidoscope_orchard:chocolate_cake": {
+      "can_villager_compost": true,
+      "chance": 1.0
+    },
+    "kaleidoscope_orchard:lemon_cake": {
+      "can_villager_compost": true,
+      "chance": 1.0
+    },
+    "kaleidoscope_orchard:watermelon_cake": {
+      "can_villager_compost": true,
+      "chance": 1.0
+    },
+    "kaleidoscope_orchard:cake_slice": {
+      "can_villager_compost": true,
+      "chance": 0.15
+    },
+    "kaleidoscope_orchard:strawberry_cake_slice": {
+      "can_villager_compost": true,
+      "chance": 0.125
+    },
+    "kaleidoscope_orchard:orange_cake_slice": {
+      "can_villager_compost": true,
+      "chance": 0.125
+    },
+    "kaleidoscope_orchard:kiwi_cake_slice": {
+      "can_villager_compost": true,
+      "chance": 0.125
+    },
+    "kaleidoscope_orchard:blueberry_cake_slice": {
+      "can_villager_compost": true,
+      "chance": 0.125
+    },
+    "kaleidoscope_orchard:sweet_berry_cake_slice": {
+      "can_villager_compost": true,
+      "chance": 0.125
+    },
+    "kaleidoscope_orchard:glow_berry_cake_slice": {
+      "can_villager_compost": true,
+      "chance": 0.125
+    },
+    "kaleidoscope_orchard:grape_cake_slice": {
+      "can_villager_compost": true,
+      "chance": 0.125
+    },
+    "kaleidoscope_orchard:chocolate_cake_slice": {
+      "can_villager_compost": true,
+      "chance": 0.125
+    },
+    "kaleidoscope_orchard:lemon_cake_slice": {
+      "can_villager_compost": true,
+      "chance": 0.125
+    },
+    "kaleidoscope_orchard:watermelon_cake_slice": {
+      "can_villager_compost": true,
+      "chance": 0.125
+    },
+    "kaleidoscope_orchard:empty_melon": {
+      "can_villager_compost": true,
+      "chance": 0.3
+    },
+    "kaleidoscope_orchard:open_melon": {
+      "can_villager_compost": true,
+      "chance": 0.65
+    },
+    "kaleidoscope_orchard:fruit_melon": {
+      "can_villager_compost": true,
+      "chance": 1.0
+    }
+  }
+}

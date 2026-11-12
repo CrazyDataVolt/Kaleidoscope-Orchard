@@ -1,0 +1,98 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "kaleidoscope_orchard:cake_base"
+  },
+  "transitional_item": {
+    "id": "kaleidoscope_orchard:incomplete_kiwi_cake"
+  },
+  "results": [
+    {
+      "id": "kaleidoscope_orchard:kiwi_cake"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "kaleidoscope_orchard:incomplete_kiwi_cake"
+        },
+        {
+          "type": "neoforge:single",
+          "amount": 1000,
+          "fluid": "kaleidoscope_orchard:kiwi_juice"
+        }
+      ],
+      "results": [
+        {
+          "id": "kaleidoscope_orchard:incomplete_kiwi_cake"
+        }
+      ]
+    },
+	{
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kaleidoscope_orchard:incomplete_kiwi_cake"
+        },
+        {
+          "item": "minecraft:sugar"
+        }
+      ],
+      "results": [
+        {
+          "id": "kaleidoscope_orchard:incomplete_kiwi_cake"
+        }
+      ]
+    },
+	{
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kaleidoscope_orchard:incomplete_kiwi_cake"
+        },
+        {
+          "item": "kaleidoscope_orchard:kiwi_slice"
+        }
+      ],
+      "results": [
+        {
+          "id": "kaleidoscope_orchard:incomplete_kiwi_cake"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kaleidoscope_orchard:incomplete_kiwi_cake"
+        },
+        {
+          "item": "kaleidoscope_orchard:kiwi_slice"
+        }
+      ],
+      "results": [
+        {
+          "id": "kaleidoscope_orchard:incomplete_kiwi_cake"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kaleidoscope_orchard:incomplete_kiwi_cake"
+        },
+        {
+          "item": "kaleidoscope_orchard:kiwi_slice"
+        }
+      ],
+      "results": [
+        {
+          "id": "kaleidoscope_orchard:incomplete_kiwi_cake"
+        }
+      ]
+    }
+  ]
+}

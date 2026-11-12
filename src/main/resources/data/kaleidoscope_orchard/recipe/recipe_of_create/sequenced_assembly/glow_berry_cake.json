@@ -1,0 +1,98 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "kaleidoscope_orchard:cake_base"
+  },
+  "transitional_item": {
+    "id": "kaleidoscope_orchard:incomplete_glow_berry_cake"
+  },
+  "results": [
+    {
+      "id": "kaleidoscope_orchard:glow_berry_cake"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "kaleidoscope_orchard:incomplete_glow_berry_cake"
+        },
+        {
+          "type": "neoforge:single",
+          "amount": 1000,
+          "fluid": "kaleidoscope_tavern:glow_berries_juice"
+        }
+      ],
+      "results": [
+        {
+          "id": "kaleidoscope_orchard:incomplete_glow_berry_cake"
+        }
+      ]
+    },
+	{
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kaleidoscope_orchard:incomplete_glow_berry_cake"
+        },
+        {
+          "item": "minecraft:sugar"
+        }
+      ],
+      "results": [
+        {
+          "id": "kaleidoscope_orchard:incomplete_glow_berry_cake"
+        }
+      ]
+    },
+	{
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kaleidoscope_orchard:incomplete_glow_berry_cake"
+        },
+        {
+          "item": "minecraft:glow_berries"
+        }
+      ],
+      "results": [
+        {
+          "id": "kaleidoscope_orchard:incomplete_glow_berry_cake"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kaleidoscope_orchard:incomplete_glow_berry_cake"
+        },
+        {
+          "item": "minecraft:glow_berries"
+        }
+      ],
+      "results": [
+        {
+          "id": "kaleidoscope_orchard:incomplete_glow_berry_cake"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kaleidoscope_orchard:incomplete_glow_berry_cake"
+        },
+        {
+          "item": "minecraft:glow_berries"
+        }
+      ],
+      "results": [
+        {
+          "id": "kaleidoscope_orchard:incomplete_glow_berry_cake"
+        }
+      ]
+    }
+  ]
+}

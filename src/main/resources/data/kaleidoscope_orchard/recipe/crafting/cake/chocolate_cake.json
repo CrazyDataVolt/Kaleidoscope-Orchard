@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "BBB",
+    " A "
+  ],
+  "key": {
+    "A": {
+      "item": "kaleidoscope_orchard:cake_base"
+    },
+    "B": {
+      "item": "kaleidoscope_orchard:chocolate"
+    }
+  },
+  "result": {
+    "id": "kaleidoscope_orchard:chocolate_cake"
+  }
+}

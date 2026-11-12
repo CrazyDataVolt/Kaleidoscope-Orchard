@@ -1,0 +1,98 @@
+{
+  "type": "create:sequenced_assembly",
+  "ingredient": {
+    "item": "kaleidoscope_orchard:cake_base"
+  },
+  "transitional_item": {
+    "id": "kaleidoscope_orchard:incomplete_strawberry_cake"
+  },
+  "results": [
+    {
+      "id": "kaleidoscope_orchard:strawberry_cake"
+    }
+  ],
+  "sequence": [
+    {
+      "type": "create:filling",
+      "ingredients": [
+        {
+          "item": "kaleidoscope_orchard:incomplete_strawberry_cake"
+        },
+        {
+          "type": "neoforge:single",
+          "amount": 1000,
+          "fluid": "kaleidoscope_orchard:strawberry_juice"
+        }
+      ],
+      "results": [
+        {
+          "id": "kaleidoscope_orchard:incomplete_strawberry_cake"
+        }
+      ]
+    },
+	{
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kaleidoscope_orchard:incomplete_strawberry_cake"
+        },
+        {
+          "item": "minecraft:sugar"
+        }
+      ],
+      "results": [
+        {
+          "id": "kaleidoscope_orchard:incomplete_strawberry_cake"
+        }
+      ]
+    },
+	{
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kaleidoscope_orchard:incomplete_strawberry_cake"
+        },
+        {
+          "item": "kaleidoscope_orchard:strawberry"
+        }
+      ],
+      "results": [
+        {
+          "id": "kaleidoscope_orchard:incomplete_strawberry_cake"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kaleidoscope_orchard:incomplete_strawberry_cake"
+        },
+        {
+          "item": "kaleidoscope_orchard:strawberry"
+        }
+      ],
+      "results": [
+        {
+          "id": "kaleidoscope_orchard:incomplete_strawberry_cake"
+        }
+      ]
+    },
+    {
+      "type": "create:deploying",
+      "ingredients": [
+        {
+          "item": "kaleidoscope_orchard:incomplete_strawberry_cake"
+        },
+        {
+          "item": "kaleidoscope_orchard:strawberry"
+        }
+      ],
+      "results": [
+        {
+          "id": "kaleidoscope_orchard:incomplete_strawberry_cake"
+        }
+      ]
+    }
+  ]
+}

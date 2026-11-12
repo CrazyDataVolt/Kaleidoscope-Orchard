@@ -1,0 +1,14 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "item": "kaleidoscope_orchard:kiwi_slice"
+    }
+  ],
+  "results": [
+    {
+      "amount": 250,
+      "id": "kaleidoscope_orchard:kiwi_juice"
+    }
+  ]
+}

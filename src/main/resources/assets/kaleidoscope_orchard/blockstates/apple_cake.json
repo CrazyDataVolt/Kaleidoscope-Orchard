@@ -1,0 +1,39 @@
+{
+  "variants": {
+    "facing=north,bites=0": { "model": "kaleidoscope_orchard:block/cake/apple_cake/0" },
+    "facing=north,bites=1": { "model": "kaleidoscope_orchard:block/cake/apple_cake/1" },
+    "facing=north,bites=2": { "model": "kaleidoscope_orchard:block/cake/apple_cake/2" },
+    "facing=north,bites=3": { "model": "kaleidoscope_orchard:block/cake/apple_cake/3" },
+    "facing=north,bites=4": { "model": "kaleidoscope_orchard:block/cake/apple_cake/4" },
+    "facing=north,bites=5": { "model": "kaleidoscope_orchard:block/cake/apple_cake/5" },
+    "facing=north,bites=6": { "model": "kaleidoscope_orchard:block/cake/apple_cake/6" },
+    "facing=north,bites=7": { "model": "kaleidoscope_orchard:block/cake/apple_cake/7" },
+
+    "facing=east,bites=0": { "model": "kaleidoscope_orchard:block/cake/apple_cake/0", "y": 90 },
+    "facing=east,bites=1": { "model": "kaleidoscope_orchard:block/cake/apple_cake/1", "y": 90 },
+    "facing=east,bites=2": { "model": "kaleidoscope_orchard:block/cake/apple_cake/2", "y": 90 },
+    "facing=east,bites=3": { "model": "kaleidoscope_orchard:block/cake/apple_cake/3", "y": 90 },
+    "facing=east,bites=4": { "model": "kaleidoscope_orchard:block/cake/apple_cake/4", "y": 90 },
+    "facing=east,bites=5": { "model": "kaleidoscope_orchard:block/cake/apple_cake/5", "y": 90 },
+    "facing=east,bites=6": { "model": "kaleidoscope_orchard:block/cake/apple_cake/6", "y": 90 },
+    "facing=east,bites=7": { "model": "kaleidoscope_orchard:block/cake/apple_cake/7", "y": 90 },
+
+    "facing=south,bites=0": { "model": "kaleidoscope_orchard:block/cake/apple_cake/0", "y": 180 },
+    "facing=south,bites=1": { "model": "kaleidoscope_orchard:block/cake/apple_cake/1", "y": 180 },
+    "facing=south,bites=2": { "model": "kaleidoscope_orchard:block/cake/apple_cake/2", "y": 180 },
+    "facing=south,bites=3": { "model": "kaleidoscope_orchard:block/cake/apple_cake/3", "y": 180 },
+    "facing=south,bites=4": { "model": "kaleidoscope_orchard:block/cake/apple_cake/4", "y": 180 },
+    "facing=south,bites=5": { "model": "kaleidoscope_orchard:block/cake/apple_cake/5", "y": 180 },
+    "facing=south,bites=6": { "model": "kaleidoscope_orchard:block/cake/apple_cake/6", "y": 180 },
+    "facing=south,bites=7": { "model": "kaleidoscope_orchard:block/cake/apple_cake/7", "y": 180 },
+
+    "facing=west,bites=0": { "model": "kaleidoscope_orchard:block/cake/apple_cake/0", "y": 270 },
+    "facing=west,bites=1": { "model": "kaleidoscope_orchard:block/cake/apple_cake/1", "y": 270 },
+    "facing=west,bites=2": { "model": "kaleidoscope_orchard:block/cake/apple_cake/2", "y": 270 },
+    "facing=west,bites=3": { "model": "kaleidoscope_orchard:block/cake/apple_cake/3", "y": 270 },
+    "facing=west,bites=4": { "model": "kaleidoscope_orchard:block/cake/apple_cake/4", "y": 270 },
+    "facing=west,bites=5": { "model": "kaleidoscope_orchard:block/cake/apple_cake/5", "y": 270 },
+    "facing=west,bites=6": { "model": "kaleidoscope_orchard:block/cake/apple_cake/6", "y": 270 },
+    "facing=west,bites=7": { "model": "kaleidoscope_orchard:block/cake/apple_cake/7", "y": 270 }
+  }
+}

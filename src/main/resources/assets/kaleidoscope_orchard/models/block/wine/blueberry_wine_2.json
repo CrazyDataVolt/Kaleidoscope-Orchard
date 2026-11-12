@@ -1,0 +1,7 @@
+{
+	"parent": "kaleidoscope_tavern:block/brew/drink/sakura_wine/count2",
+	"textures": {
+		"0": "kaleidoscope_orchard:block/wine/blueberry_wine",
+		"particle": "kaleidoscope_orchard:block/wine/blueberry_wine"
+	}
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "AAA",
+    "AAA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "kaleidoscope_orchard:chocolate"
+    }
+  },
+  "result": {
+    "id": "kaleidoscope_orchard:chocolate_block"
+  }
+}

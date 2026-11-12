@@ -1,0 +1,18 @@
+{
+  "type": "create:filling",
+  "ingredients": [
+    {
+      "item": "kaleidoscope_orchard:cake_base"
+    },
+    {
+      "type": "neoforge:single",
+      "amount": 1000,
+      "fluid": "create:chocolate"
+    }
+  ],
+  "results": [
+    {
+      "id": "kaleidoscope_orchard:chocolate_cake"
+    }
+  ]
+}

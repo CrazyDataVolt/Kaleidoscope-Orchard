@@ -1,0 +1,33 @@
+{
+  "parent": "kaleidoscope_orchard:root",
+  "criteria": {
+    "has_kiwi": {
+      "conditions": {
+        "items": [
+          {
+            "items": "kaleidoscope_orchard:kiwi"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "icon": {
+      "count": 1,
+      "id": "kaleidoscope_orchard:kiwi"
+    },
+    "title": {
+      "translate": "advancements.kaleidoscope_orchard.kiwi.title"
+    },
+    "description": {
+      "translate": "advancements.kaleidoscope_orchard.kiwi.desc"
+    }
+  },
+  "requirements": [
+    [
+      "has_kiwi"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

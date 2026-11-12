@@ -1,0 +1,61 @@
+{
+  "item": "kaleidoscope_orchard:blueberry_wine",
+  "effects": [
+    [
+      {
+        "effect": "minecraft:regeneration",
+        "duration": 5,
+        "amplifier": 0,
+        "probability": 1.0
+      }
+    ],
+    [
+      {
+        "effect": "minecraft:regeneration",
+        "duration": 10,
+        "amplifier": 0,
+        "probability": 1.0
+      }
+    ],
+    [
+      {
+        "effect": "minecraft:regeneration",
+        "duration": 15,
+        "amplifier": 0,
+        "probability": 1.0
+      }
+    ],
+    [
+      {
+        "effect": "kaleidoscope_orchard:hit_recover",
+        "duration": 360,
+        "amplifier": 0,
+        "probability": 1.0
+      }
+    ],
+    [
+      {
+        "effect": "kaleidoscope_orchard:hit_recover",
+        "duration": 720,
+        "amplifier": 1,
+        "probability": 1.0
+      }
+    ],
+    [
+      {
+        "effect": "kaleidoscope_orchard:hit_recover",
+        "duration": 1080,
+        "amplifier": 2,
+        "probability": 1.0
+      }
+    ],
+    [
+      {
+        "effect": "kaleidoscope_orchard:hit_recover",
+        "duration": 2160,
+        "amplifier": 3,
+        "probability": 1.0
+      }
+    ]
+  ]
+}

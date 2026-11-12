@@ -1,0 +1,22 @@
+{
+	"format_version": "1.9.0",
+	"credit": "Made with Blockbench",
+	"textures": {
+		"inside": "kaleidoscope_orchard:block/compost_bin_contents",
+        "particle": "#inside"
+	},
+	"elements": [
+		{
+			"from": [2.001, 2, 2.001],
+			"to": [13.999, 13, 13.999],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 2, 8]},
+			"faces": {
+				"north": {"uv": [2, 3, 14, 14], "texture": "#inside"},
+				"east": {"uv": [2, 3, 14, 14], "texture": "#inside"},
+				"south": {"uv": [2, 3, 14, 14], "texture": "#inside"},
+				"west": {"uv": [2, 3, 14, 14], "texture": "#inside"},
+				"up": {"uv": [2, 2, 14, 14], "texture": "#inside"}
+			}
+		}
+	]
+}

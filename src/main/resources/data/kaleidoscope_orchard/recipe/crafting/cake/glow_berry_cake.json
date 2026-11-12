@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "BAB"
+  ],
+  "key": {
+    "A": {
+      "item": "kaleidoscope_orchard:cake_base"
+    },
+    "B": {
+      "item": "kaleidoscope_orchard:glow_berry_jam"
+    }
+  },
+  "result": {
+    "id": "kaleidoscope_orchard:glow_berry_cake"
+  }
+}

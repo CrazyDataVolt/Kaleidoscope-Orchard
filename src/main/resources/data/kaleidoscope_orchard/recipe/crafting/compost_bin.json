@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "A",
+    "B"
+  ],
+  "key": {
+    "A": {
+      "tag": "minecraft:wooden_trapdoors"
+    },
+    "B": {
+      "item": "minecraft:composter"
+    }
+  },
+  "result": {
+    "id": "kaleidoscope_orchard:compost_bin"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "parent": "kaleidoscope_orchard:progress/strawberry",
+  "criteria": {
+    "has_blueberry": {
+      "conditions": {
+        "items": [
+          {
+            "items": "kaleidoscope_orchard:blueberry"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "icon": {
+      "count": 1,
+      "id": "kaleidoscope_orchard:blueberry"
+    },
+    "title": {
+      "translate": "advancements.kaleidoscope_orchard.blueberry.title"
+    },
+    "description": {
+      "translate": "advancements.kaleidoscope_orchard.blueberry.desc"
+    }
+  },
+  "requirements": [
+    [
+      "has_blueberry"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

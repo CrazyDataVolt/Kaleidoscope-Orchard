@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_farmland",
+  "textures": {
+    "dirt": "kaleidoscope_orchard:block/rich_soil",
+    "top": "kaleidoscope_orchard:block/rich_soil_farmland_moist"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "criteria": {
+    "0": {
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "background": "kaleidoscope_orchard:textures/block/fruit_tree_log.png",
+    "icon": {
+      "count": 1,
+      "id": "kaleidoscope_orchard:strawberry"
+    },
+    "title": {
+      "translate": "advancements.kaleidoscope_orchard.root.title"
+    },
+    "description": {
+      "translate": "advancements.kaleidoscope_orchard.root.desc"
+    }
+  },
+  "requirements": [
+    [
+      "0"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

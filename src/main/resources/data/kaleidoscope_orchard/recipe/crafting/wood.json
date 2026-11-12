@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "kaleidoscope_orchard:fruit_tree_log"
+    }
+  ],
+  "result": {
+    "id": "minecraft:oak_planks",
+    "count": 4
+  }
+}

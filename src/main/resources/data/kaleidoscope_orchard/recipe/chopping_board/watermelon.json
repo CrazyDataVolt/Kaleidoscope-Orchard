@@ -1,0 +1,12 @@
+{
+  "type": "kaleidoscope_cookery:chopping_board",
+  "cut_count": 2,
+  "ingredient": {
+    "item": "minecraft:melon"
+  },
+  "model_id": "kaleidoscope_orchard:watermelon",
+  "result": {
+    "count": 9,
+    "id": "minecraft:melon_slice"
+  }
+}

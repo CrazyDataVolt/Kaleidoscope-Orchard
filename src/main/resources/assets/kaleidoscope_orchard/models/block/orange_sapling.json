@@ -1,0 +1,7 @@
+{
+	"parent": "kaleidoscope_orchard:block/fruit_tree_sapling",
+	"textures": {
+		"fruit": "kaleidoscope_orchard:chopping_board/orange",
+		"particle": "kaleidoscope_orchard:block/fruit_tree_leaves"
+	}
+}

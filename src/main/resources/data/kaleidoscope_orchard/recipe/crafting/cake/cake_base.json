@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ABA",
+    "CCC"
+  ],
+  "key": {
+    "A": {
+      "item": "minecraft:sugar"
+    },
+    "B": {
+      "tag": "c:eggs"
+    },
+    "C": {
+      "tag": "c:flour"
+    }
+  },
+  "result": {
+    "id": "kaleidoscope_orchard:cake_base"
+  }
+}

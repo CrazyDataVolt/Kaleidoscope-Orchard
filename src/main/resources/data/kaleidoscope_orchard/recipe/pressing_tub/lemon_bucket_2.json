@@ -1,0 +1,7 @@
+{
+  "type": "kaleidoscope_tavern:pressing_tub",
+  "fluid": "kaleidoscope_orchard:lemon_juice",
+  "ingredient": {
+    "item": "kaleidoscope_orchard:lemon_slice"
+  }
+}

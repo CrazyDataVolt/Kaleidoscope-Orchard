@@ -1,0 +1,43 @@
+{
+	"format_version": "1.9.0",
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"render_type": "cutout",
+	"textures": {
+		"0": "kaleidoscope_orchard:block/blueberry_bush",
+		"particle": "kaleidoscope_orchard:block/fruit_tree_leaves"
+	},
+	"elements": [
+		{
+			"from": [2, 0, 2],
+			"to": [14, 12, 14],
+			"rotation": {"angle": 0, "axis": "y", "origin": [7, 5, 7]},
+			"faces": {
+				"north": {"uv": [10, 0, 16, 6], "texture": "#0"},
+				"east": {"uv": [10, 0, 16, 6], "texture": "#0"},
+				"south": {"uv": [10, 0, 16, 6], "texture": "#0"},
+				"west": {"uv": [10, 0, 16, 6], "texture": "#0"},
+				"up": {"uv": [10, 0, 16, 6], "texture": "#0"},
+				"down": {"uv": [10, 0, 16, 6], "texture": "#0"}
+			}
+		},
+		{
+			"from": [2, 0, 8],
+			"to": [14, 12, 8],
+			"rotation": {"angle": 45, "axis": "y", "origin": [8, 6, 8]},
+			"faces": {
+				"north": {"uv": [10, 10, 16, 16], "texture": "#0"},
+				"south": {"uv": [10, 10, 16, 16], "texture": "#0"}
+			}
+		},
+		{
+			"from": [2, 0, 8],
+			"to": [14, 12, 8],
+			"rotation": {"angle": -45, "axis": "y", "origin": [8, 6, 8]},
+			"faces": {
+				"north": {"uv": [10, 10, 16, 16], "texture": "#0"},
+				"south": {"uv": [10, 10, 16, 16], "texture": "#0"}
+			}
+		}
+	]
+}

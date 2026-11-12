@@ -1,0 +1,6 @@
+{
+  "parent": "kaleidoscope_orchard:chopping_board/orange/0",
+  "textures": {
+    "0": "kaleidoscope_orchard:chopping_board/lemon"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "DDD",
+    "DCD",
+    "BAB"
+  ],
+  "key": {
+    "A": {
+      "item": "kaleidoscope_orchard:cake_base"
+    },
+    "B": {
+      "item": "minecraft:sugar"
+    },
+    "C": {
+      "item": "kaleidoscope_orchard:lemon_bucket"
+    },
+    "D": {
+      "item": "kaleidoscope_orchard:lemon_slice"
+    }
+  },
+  "result": {
+    "id": "kaleidoscope_orchard:lemon_cake"
+  }
+}

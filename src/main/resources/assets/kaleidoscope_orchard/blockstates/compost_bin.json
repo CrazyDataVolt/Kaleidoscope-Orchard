@@ -1,0 +1,101 @@
+{
+  "multipart": [
+    {
+      "apply": { "model": "kaleidoscope_orchard:block/compost_bin_close" },
+      "when": { "open": "false", "facing": "north" }
+    },
+    {
+      "apply": { "model": "kaleidoscope_orchard:block/compost_bin_close", "y": 90 },
+      "when": { "open": "false", "facing": "east" }
+    },
+    {
+      "apply": { "model": "kaleidoscope_orchard:block/compost_bin_close", "y": 180 },
+      "when": { "open": "false", "facing": "south" }
+    },
+    {
+      "apply": { "model": "kaleidoscope_orchard:block/compost_bin_close", "y": 270 },
+      "when": { "open": "false", "facing": "west" }
+    },
+    {
+      "apply": { "model": "kaleidoscope_orchard:block/compost_bin_open" },
+      "when": { "open": "true", "facing": "north" }
+    },
+    {
+      "apply": { "model": "kaleidoscope_orchard:block/compost_bin_open", "y": 90 },
+      "when": { "open": "true", "facing": "east" }
+    },
+    {
+      "apply": { "model": "kaleidoscope_orchard:block/compost_bin_open", "y": 180 },
+      "when": { "open": "true", "facing": "south" }
+    },
+    {
+      "apply": { "model": "kaleidoscope_orchard:block/compost_bin_open", "y": 270 },
+      "when": { "open": "true", "facing": "west" }
+    },
+
+    {
+      "apply": { "model": "kaleidoscope_orchard:block/compost_bin_contents_1" },
+      "when": { "level": "1" }
+    },
+    {
+      "apply": { "model": "kaleidoscope_orchard:block/compost_bin_contents_2" },
+      "when": { "level": "2" }
+    },
+    {
+      "apply": { "model": "kaleidoscope_orchard:block/compost_bin_contents_3" },
+      "when": { "level": "3" }
+    },
+    {
+      "apply": { "model": "kaleidoscope_orchard:block/compost_bin_contents_4" },
+      "when": { "level": "4" }
+    },
+    {
+      "apply": { "model": "kaleidoscope_orchard:block/compost_bin_contents_5" },
+      "when": { "level": "5" }
+    },
+    {
+      "apply": { "model": "kaleidoscope_orchard:block/compost_bin_contents_6" },
+      "when": { "level": "6" }
+    },
+    {
+      "apply": { "model": "kaleidoscope_orchard:block/compost_bin_contents_7" },
+      "when": { "level": "7" }
+    },
+    {
+      "apply": { "model": "kaleidoscope_orchard:block/compost_bin_contents_8" },
+      "when": { "level": "8" }
+    },
+    {
+      "apply": { "model": "kaleidoscope_orchard:block/compost_bin_contents_9" },
+      "when": { "level": "9" }
+    },
+    {
+      "apply": { "model": "kaleidoscope_orchard:block/compost_bin_contents_10" },
+      "when": { "level": "10" }
+    },
+    {
+      "apply": { "model": "kaleidoscope_orchard:block/compost_bin_contents_11" },
+      "when": { "level": "11" }
+    },
+    {
+      "apply": { "model": "kaleidoscope_orchard:block/compost_bin_contents_12" },
+      "when": { "level": "12" }
+    },
+    {
+      "apply": { "model": "kaleidoscope_orchard:block/compost_bin_contents_13" },
+      "when": { "level": "13" }
+    },
+    {
+      "apply": { "model": "kaleidoscope_orchard:block/compost_bin_contents_14" },
+      "when": { "level": "14" }
+    },
+    {
+      "apply": { "model": "kaleidoscope_orchard:block/compost_bin_contents_15" },
+      "when": { "level": "15" }
+    },
+    {
+      "apply": { "model": "kaleidoscope_orchard:block/compost_bin_contents_16" },
+      "when": { "level": "16" }
+    }
+  ]
+}

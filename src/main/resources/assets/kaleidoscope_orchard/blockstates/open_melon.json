@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "bites=0": { "model": "kaleidoscope_orchard:block/open_melon_0" },
+    "bites=1": { "model": "kaleidoscope_orchard:block/open_melon_1" },
+    "bites=2": { "model": "kaleidoscope_orchard:block/open_melon_2" }
+  }
+}

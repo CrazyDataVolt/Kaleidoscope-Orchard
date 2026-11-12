@@ -1,0 +1,61 @@
+{
+  "item": "kaleidoscope_orchard:glow_honey_wine",
+  "effects": [
+    [
+      {
+        "effect": "minecraft:absorption",
+        "duration": 60,
+        "amplifier": 0,
+        "probability": 1.0
+      }
+    ],
+    [
+      {
+        "effect": "minecraft:absorption",
+        "duration": 120,
+        "amplifier": 0,
+        "probability": 1.0
+      }
+    ],
+    [
+      {
+        "effect": "minecraft:absorption",
+        "duration": 240,
+        "amplifier": 0,
+        "probability": 1.0
+      }
+    ],
+    [
+      {
+        "effect": "kaleidoscope_orchard:golden_defence",
+        "duration": 360,
+        "amplifier": 0,
+        "probability": 1.0
+      }
+    ],
+    [
+      {
+        "effect": "kaleidoscope_orchard:golden_defence",
+        "duration": 720,
+        "amplifier": 1,
+        "probability": 1.0
+      }
+    ],
+    [
+      {
+        "effect": "kaleidoscope_orchard:golden_defence",
+        "duration": 1080,
+        "amplifier": 2,
+        "probability": 1.0
+      }
+    ],
+    [
+      {
+        "effect": "kaleidoscope_orchard:golden_defence",
+        "duration": 2160,
+        "amplifier": 3,
+        "probability": 1.0
+      }
+    ]
+  ]
+}

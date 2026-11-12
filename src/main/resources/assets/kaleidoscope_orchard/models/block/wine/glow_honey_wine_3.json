@@ -1,0 +1,7 @@
+{
+	"parent": "kaleidoscope_tavern:block/brew/drink/whiskey/count3",
+	"textures": {
+		"0": "kaleidoscope_orchard:block/wine/glow_honey_wine",
+		"particle": "kaleidoscope_orchard:block/wine/glow_honey_wine"
+	}
+}

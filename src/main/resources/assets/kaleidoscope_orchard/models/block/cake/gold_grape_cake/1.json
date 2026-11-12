@@ -1,0 +1,7 @@
+{
+  "parent": "kaleidoscope_orchard:block/cake/grape_cake/1",
+  "textures": {
+    "0": "kaleidoscope_orchard:block/cake/gold_grape_cake",
+    "particle": "kaleidoscope_orchard:block/cake/gold_grape_cake_particle"
+  }
+}

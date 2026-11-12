@@ -1,0 +1,10 @@
+{
+  "type": "neoforge:add_table",
+  "conditions": [
+    {
+      "condition": "neoforge:loot_table_id",
+      "loot_table_id": "minecraft:blocks/jungle_leaves"
+    }
+  ],
+  "table": "kaleidoscope_orchard:loot_modifiers/jungle_leaves"
+}
